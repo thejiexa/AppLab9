@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppLab9</string>
+    <string name="already">Already Have an Account?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">FORGOT PASSWORD\?</string>
+    <string name="or">OR</string>
+    <string name="new_user">New User? Register Now</string>
+    <string name="logged_in">Logged In</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="restore">Restore password</string>
+</resources>
